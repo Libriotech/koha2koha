@@ -1,0 +1,15 @@
+=pod
+
+=head1 KOHA2KOHA
+
+A small collection of tools for merging and splitting Koha instances. 
+
+This is not a big project to solve every conceivable problem related to
+merging and splitting, just a collection of ad hoc scripts that I have created
+during the course of my work.
+
+=head1 DOCUMENTATION 
+
+Run the different scripts through perldoc to see more documentation.
+
+=cut
